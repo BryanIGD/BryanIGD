@@ -6,7 +6,6 @@ high-volume automotive manufacturing, where I wrote the scripts and tools that
 made production processes faster, more reliable and easier to inspect.
 
 Nanotechnology Engineering (Computer Engineering Option), University of Waterloo, With Distinction
-Hamilton, ON · open to relocation and remote
 
 **Looking for:** software engineering roles, especially backend, tooling, test
 automation or manufacturing software, where shop-floor experience is an asset.
